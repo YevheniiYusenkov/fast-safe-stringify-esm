@@ -1,5 +1,9 @@
 # Changelog
 
+# v 2.1.2
+
+- Added esm/cjs full support
+
 ## v.2.0.0
 
 Features
